@@ -1,0 +1,84 @@
+.Contact{
+    background-image: url("https://woxro.com/public/assets/png/woxroglobe.png");
+    width: 100%;
+    height: 320px;
+    border: 1px solid black;
+    background-color: black;
+    color:#FFFFFF;
+    background-repeat: no-repeat;
+}
+.ConFirst{
+    font-size: 32px;
+    font-weight: bolder;
+}
+.ConSecond{
+    font-size: 32px;
+    font-weight: bolder;
+}
+.cons{
+    margin-left: 50px;
+    margin-top:8%
+}
+
+.Button{
+    height: 55px;
+    width: 150px;
+    cursor: pointer;
+    color:#FFFFFF;
+    background-color: #000000;
+   border: 1px solid #FFFFFF;
+   border-radius: 5px;
+   font-size: 16px;
+}
+.Button1{
+    height: 55px;
+    width: 150px; 
+    margin-left: 10px;
+    cursor: pointer;
+    color:#FFFFFF;
+    background-color: #000000;
+   border: 1px solid #FFFFFF;
+   border-radius: 5px;
+   font-size: 16px;
+}
+.Button1:hover{
+    background-color: #FFFFFF;
+    color:#000000;
+    
+}
+.Btn{
+    margin-left: 20%;
+    margin-top: 150px;
+
+}
+.Button:hover{
+    background-color: #FFFFFF;
+    color:#000000;
+    
+}
+.contactfirst{
+    font-size: 32px;
+}
+.contactSecond{
+    font-size: 32px;
+}
+.Contactdiv{
+    margin-top: 130px;
+    margin-left: 50px;
+    font-weight:bolder;
+}
+body{
+    margin:0%;
+    padding: 0%;
+}
+.DivBtn{
+    display: flex;
+}
+.contactphoto{
+    margin-top:3px;
+    height:20px;
+    width:20px
+}
+.talk{
+    margin-left:5px
+}

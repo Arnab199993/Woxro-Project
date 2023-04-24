@@ -1,0 +1,9 @@
+.text{
+    margin-left: 45%;
+    border:1px solid black
+}
+@media(max-width:600px){
+    h2{
+        font-size: 15px;
+    }
+}

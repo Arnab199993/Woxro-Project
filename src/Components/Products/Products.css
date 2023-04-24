@@ -1,0 +1,161 @@
+.ImageProduct{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.Bio{
+    margin-left: 15px;
+
+}
+.Web{
+    font-weight:bolder;
+    color:#000000;
+    margin-top: 20px;
+}
+.Text{
+    padding: 15px;
+}
+.Prodwithimage{
+    display: flex;
+    margin-left: 150px;
+}
+.SecondLines{
+    display: flex;
+}
+.Main{
+    
+    margin-top: 80px;
+    padding-bottom: 100px;
+}
+.prodcont{
+    height: 340px;
+    width: 360px;
+    margin-top: 50px;
+    border: 1px solid #E7F0F7;
+    margin-left: 100px;
+    background-color: #E7F0F7;
+    border-radius: 10px;
+    cursor:pointer
+}
+.ImageCont{
+    height: 340px;
+    width: 360px;
+    margin-top: 50px;
+    border: 1px solid #F6F5F3;
+    margin-left: 20px;
+    background-color: #F6F5F3;
+    border-radius: 10px;
+    cursor:pointer
+}
+.MobileCont{
+    height: 340px;
+    width: 360px;
+    margin-top: 50px;
+    border: 1px solid #F6F5F3;
+    margin-left: 20px;
+    background-color: #F6F5F3;
+    border-radius: 10px;
+    cursor:pointer
+}
+.EcomCont{
+    height: 340px;
+    width: 360px;
+    margin-top: 20px;
+    border: 1px solid #FcF0E4;
+    margin-left: 250px;
+    background-color: #FcF0E4;
+    border-radius: 10px;
+    cursor:pointer
+}
+.Digcont{
+    height: 340px;
+    width: 360px;
+    margin-top: 20px;
+    border: 1px solid #E7F0F7;
+    margin-left: 20px;
+    background-color: #E7F0F7;
+    border-radius: 10px;
+    cursor:pointer
+}
+.GraphCont{
+    height: 340px;
+    width: 360px;
+    margin-top: 20px;
+    border: 1px solid#EFFBFB;
+    margin-left: 20px;
+    background-color: #EFFBFB;
+    border-radius: 10px;
+    cursor:pointer
+}
+@media (max-width:600px){
+    .Prodwithimage{
+        display: flex;
+        margin-left: 10px;
+    }
+    .Main{
+        margin-top: 80px;
+        padding-bottom: 100px;
+    }
+    .ImageCont{
+        height: 300px;
+        width: 950px;
+        margin-top: 50px;
+        border: 1px solid #F6F5F3;
+        margin-left: 20px;
+        background-color: #F6F5F3;
+        border-radius: 10px;
+        cursor:pointer;
+    }
+    .prodcont{
+        height: 300px;
+    width: 950px;
+    margin-top: 50px;
+    border: 1px solid #E7F0F7;
+    margin-left: 10px;
+    background-color: #E7F0F7;
+    border-radius: 10px;
+    cursor:pointer
+    }
+    .MobileCont{
+        height: 350px;
+        width: 300px;
+        margin-top: 50px;
+        border: 1px solid #F6F5F3;
+        margin-left: 20px;
+        background-color: #F6F5F3;
+        border-radius: 10px;
+        cursor:pointer;
+    }
+    .EcomCont{
+        height: 350px;
+        width: 300px;
+        margin-top: 20px;
+        border: 1px solid #FcF0E4;
+        margin-left: 20px;
+        background-color: #FcF0E4;
+        border-radius: 10px;
+        cursor:pointer;
+    }
+    .Digcont{
+        height: 350px;
+        width: 300px;
+        margin-top: 20px;
+        border: 1px solid #E7F0F7;
+        margin-left: 20px;
+        background-color: #E7F0F7;
+        border-radius: 10px;
+        cursor:pointer
+    }
+    .GraphCont{
+        height: 350px;
+        width: 300px;
+        margin-top: 20px;
+        border: 1px solid#EFFBFB;
+        margin-left: 20px;
+        background-color: #EFFBFB;
+        border-radius: 10px;
+        cursor:pointer
+    }
+    .Text{
+        font-size: 10px;
+    }
+}

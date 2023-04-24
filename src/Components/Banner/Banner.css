@@ -1,0 +1,81 @@
+.header-banner-cont{
+    border: 1px solid #FFFFFF;
+    height: 630px;
+    width: 100%;
+    background-image: url("./DarkTrees.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.FirstLine{
+    font-weight: bolder;
+    font-size: 80px;
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+.SecondLine{
+    font-weight: bolder;
+    font-size: 80px;
+    margin-left: 50px;
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+.header-banner-para{
+    color:#FFFFFF;
+    margin-top: 56px;
+    font-size: 19.2px;
+    margin-left: 23%;
+    font-weight: bold;
+}
+.secondpara{
+    margin-left: 17%;
+}
+@media(max-width:600px){
+    .header-banner-cont{
+        border: 1px solid #FFFFFF;
+        height: 630px;
+        width: 100%;
+        background-image: url("./DarkTrees.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+    .FirstLine{
+        font-weight: bolder;
+        font-size: 40px;
+        color: #FFFFFF;
+        font-weight: bolder;
+    }
+    .SecondLine{
+        font-weight: bolder;
+        font-size: 40px;
+        margin-left: 50px;
+        color: #FFFFFF;
+        font-weight: bolder;
+    }
+    .header-banner-para{
+        color:#FFFFFF;
+        margin-top: 56px;
+        font-size: 9.9px;
+        margin-left: 15%;
+        font-weight: bold;
+    }
+    .container{
+        justify-content: center;
+        align-items: center;
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    .cont-services{
+        margin-right: 170px;
+    }
+}
+
+
